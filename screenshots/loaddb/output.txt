@@ -1,0 +1,194 @@
+0 Afghanistan
+1 Albania
+2 Algeria
+3 Andorra
+4 Angola
+5 Antigua & Barbuda
+6 Argentina
+7 Armenia
+8 Australia
+9 Austria
+10 Azerbaijan
+11 Bahamas
+12 Bahrain
+13 Bangladesh
+14 Barbados
+15 Belarus
+16 Belgium
+17 Belize
+18 Benin
+19 Bhutan
+20 Bolivia
+21 Bosnia & Herzegovina
+22 Botswana
+23 Brazil
+24 Brunei
+25 Bulgaria
+26 Burkina Faso
+27 Burundi
+28 Cambodia
+29 Cameroon
+30 Canada
+31 Cabo Verde
+32 Central African Republic
+33 Chad
+34 Chile
+35 China
+36 Colombia
+37 Comoros
+38 Republic of the Congo
+39 Costa Rica
+40 Croatia
+41 Cuba
+42 Cyprus
+43 Czech Republic
+44 Democratic Republic of the Congo
+45 Denmark
+46 Djibouti
+47 Dominica
+48 Dominican Republic
+49 East Timor
+50 Ecuador
+51 Egypt
+52 El Salvador
+53 Equatorial Guinea
+54 Eritrea
+55 Estonia
+56 Ethiopia
+57 Federated States of Micronesia
+58 Fiji
+59 Finland
+60 France
+61 Gabon
+62 Georgia
+63 Germany
+64 Ghana
+65 Greece
+66 Grenada
+67 Guatemala
+68 Guinea
+69 Guinea-Bissau
+70 Guyana
+71 Haiti
+72 Honduras
+73 Hungary
+74 Iceland
+75 India
+76 Indonesia
+77 Iran
+78 Iraq
+79 Ireland
+80 Israel
+81 Italy
+82 Jamaica
+83 Japan
+84 Jordan
+85 Kazakhstan
+86 Kenya
+87 Kiribati
+88 Kuwait
+89 Kyrgyzstan
+90 Laos
+91 Latvia
+92 Lebanon
+93 Lesotho
+94 Liberia
+95 Libya
+96 Liechtenstein
+97 Lithuania
+98 Luxembourg
+99 Madagascar
+100 Malawi
+101 Malaysia
+102 Maldives
+103 Mali
+104 Malta
+105 Marshall Islands
+106 Mauritania
+107 Mauritius
+108 Mexico
+109 Moldova
+110 Monaco
+111 Mongolia
+112 Montenegro
+113 Morocco
+114 Mozambique
+115 Myanmar
+116 Namibia
+117 Nauru
+118 Nepal
+119 Netherlands
+120 New Zealand
+121 Nicaragua
+122 Niger
+123 Nigeria
+124 North Korea
+125 Norway
+126 Oman
+127 Pakistan
+128 Palau
+129 Palestine
+130 Panama
+131 Papua New Guinea
+132 Paraguay
+133 Peru
+134 Philippines
+135 Poland
+136 Portugal
+137 Qatar
+138 Republic of Macedonia
+139 Romania
+140 Russia
+141 Rwanda
+142 Saint Kitts & Nevis
+143 Saint Lucia
+144 Saint Vincent & the Grenadines
+145 Samoa
+146 San Marino
+147 Sao Tome & Principe
+148 Saudi Arabia
+149 Senegal
+150 Serbia
+151 Seychelles
+152 Sierra Leone
+65536 Singapore
+65537 Slovakia
+65538 Slovenia
+65539 Solomon Islands
+65540 Somalia
+65541 South Africa
+65542 South Korea
+65543 South Sudan
+65544 Spain
+65545 Sri Lanka
+65546 Sudan
+65547 Suriname
+65548 Sweden
+65549 Switzerland
+65550 Syria
+65551 Taiwan
+65552 Tajikistan
+65553 Tanzania
+65554 Thailand
+65555 The Gambia
+65556 Togo
+65557 Tonga
+65558 Trinidad & Tobago
+65559 Tunisia
+65560 Turkey
+65561 Turkmenistan
+65562 Tuvalu
+65563 Uganda
+65564 Ukraine
+65565 United Arab Emirates
+65566 United Kingdom
+65567 United States
+65568 Uruguay
+65569 Uzbekistan
+65570 Vanuatu
+65571 Vatican City
+65572 Venezuela
+65573 Vietnam
+65574 Yemen
+65575 Zambia
+65576 Zimbabwe
